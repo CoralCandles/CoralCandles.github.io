@@ -109,6 +109,10 @@ width: 300%;
 
 }
 
+.ejem{
+	margin-top: 50px;
+}
+
 
 .footer{
   background-color: black;
@@ -129,6 +133,10 @@ margin-left: -10px;
       margin-left: 50%;
 text-align: center;
   width: 50%;
+}
+
+.mitadizq{
+text-align: center;
 }
 
 #botoncito{
